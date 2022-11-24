@@ -14,3 +14,12 @@ início da quadra, em centímetros, no momento do lançamento.
 
 O programa produz uma única linha, contendo um inteiro, 1, 2 ou 3, indicando a pontuação
 do lançamento.
+
++ A idade de dona Mônica:
+
+A primeira linha da entrada contém um inteiro M representando a idade de dona Mônica. A
+segunda linha da entrada contém um inteiro A representando a idade de um dos filhos. A terceira
+linha da entrada contém um inteiro B representando a idade de outro filho.
+
+O programa imprime uma linha, contendo um número inteiro, representando a idade do filho
+mais velho de dona Mônica.
